@@ -1,3 +1,10 @@
 *.jpg
 *.jpeg
 *.png
+
+Qvec_rho.bin
+Qvec_ux.bin
+Qvec_uy.bin
+Qvec_uz.bin
+Qvec_uxyz_log_vort.bin
+
