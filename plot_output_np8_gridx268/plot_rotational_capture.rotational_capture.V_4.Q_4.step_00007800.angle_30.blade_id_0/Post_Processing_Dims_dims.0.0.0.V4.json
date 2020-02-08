@@ -1,0 +1,23 @@
+{
+	"Q_output_length" : 4,
+	"cut_at" : 0,
+	"dirname" : "plot_output_np8_gridx268//plot_rotational_capture.rotational_capture.V_4.Q_4.step_00007800.angle_30.blade_id_0",
+	"file_height" : 134,
+	"file_width" : 134,
+	"function" : "plot_angle_Qvec_buffer",
+	"grid_x" : 268,
+	"grid_y" : 268,
+	"grid_z" : 268,
+	"initial_rho" : 8.0,
+	"name" : "Post_Processing_Dims",
+	"ngx" : 2,
+	"ngy" : 2,
+	"ngz" : 2,
+	"note" : "Plot Angle   blade_id:0",
+	"re_m_nondimensional" : 7300.0,
+	"step" : 7800,
+	"teta" : 17.593505859375,
+	"total_height" : 268,
+	"total_width" : 268,
+	"uav" : 0.10000000149011612
+}

@@ -1,0 +1,23 @@
+{
+	"Q_output_length" : 4,
+	"cut_at" : 0,
+	"dirname" : "plot_output_np64_gridx160//plot_full_.volume.V_4.Q_4.step_00001000",
+	"file_height" : 40,
+	"file_width" : 40,
+	"function" : "plot_volume_Qvec_buffer",
+	"grid_x" : 160,
+	"grid_y" : 160,
+	"grid_z" : 160,
+	"initial_rho" : 8.0,
+	"name" : "Post_Processing_Dims",
+	"ngx" : 4,
+	"ngy" : 4,
+	"ngz" : 4,
+	"note" : "is volume",
+	"re_m_nondimensional" : 7300.0,
+	"step" : 1000,
+	"teta" : 3.7974839210510254,
+	"total_height" : 160,
+	"total_width" : 160,
+	"uav" : 0.10000000149011612
+}
