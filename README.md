@@ -1,15 +1,15 @@
-# Turbulent Dynamics Rushton Sample Output Qvec
+# Turbulent Dynamics Rushton Sample Output Qvec (about 60MB)
 
-Install git-lfs first: 
+Install git-lfs first:
 ```
 brew install git-lfs
-git clone git@github.com:git@github.com:TurbulentDynamics/tdQVecRushtonTurbineSampleOutput.git
+git clone git@github.com:TurbulentDynamics/tdQVecRushtonTurbineSampleOutput.git
 ```
 
 Sample output files for use with the following repos:
 
-[git@github.com:TurbulentDynamics/tdQvecPostProcess.git](https://github.com/TurbulentDynamics/tdQvecTool)
-[git@github.com:TurbulentDynamics/tdQvecPostProcess.git](https://github.com/TurbulentDynamics/tdQvecToolGUI)
+[git@github.com:TurbulentDynamics/tdQVecTool.git](https://github.com/TurbulentDynamics/tdQVecTool)
+[git@github.com:TurbulentDynamics/tdQVecToolGUI.git](https://github.com/TurbulentDynamics/tdQVecToolGUI)
 
 
 ## Deprecated
